@@ -1,0 +1,46 @@
+*{
+    font-family: Mukta;
+}
+
+main{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    display: grid;
+    align-content: center;
+    height: 500px;
+}
+
+footer{
+    text-align: center;
+    color: #2730369f;
+}
+
+#img-principal{
+    border-radius: 100px;
+    margin: 10px;
+}
+
+#busqueda{
+    border-radius: 30px;
+    padding: 10px;
+    padding-right: 50px;
+    border-color: #273036;
+}
+
+#busqueda:hover{
+    box-shadow: 2px 2px 2px rgba(70, 70, 70, 0.397);
+}
+
+.main-info{
+    margin-bottom: 25px;
+}
+
+a{
+   text-decoration: none;
+   color: #2730369f;
+}
+
+a:hover{
+    color: #314552;
+}
